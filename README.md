@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tnattylite
+- 👋 Hi, I’m Tamara!
 - 👀 I’m interested in practicing efficient coding and learning new languages!
-- 🌱 I’m currently learning Python and PHP
+- 🌱 I’m currently learning HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on anything and everything??
 - 📫 How to reach me: sowrongitstamara@gmail.com
 
